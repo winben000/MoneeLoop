@@ -1,6 +1,6 @@
 # MoneeLoop standalone website
 
-This package contains the complete MoneeLoop prototype and is independent of ChatGPT Sites. It builds as a static website, so no server or database is required.
+This package contains the complete MoneeLoop prototype. It builds as a static website, so no server or database is required.
 
 ## Requirements
 
